@@ -13,4 +13,9 @@ class Home extends BaseController
     {
         return view('landingpage/about');
     }
+
+    public function potensi(): string
+    {
+        return view('landingpage/potensi');
+    }
 }
