@@ -8,4 +8,9 @@ class Home extends BaseController
     {
         return view('landingpage/index');
     }
+
+    public function about(): string
+    {
+        return view('landingpage/about');
+    }
 }

@@ -18,16 +18,16 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
         <!-- Libraries Stylesheet -->
-        <link href="lib/animate/animate.min.css" rel="stylesheet">
-        <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="user/lib/animate/animate.min.css" rel="stylesheet">
+        <link href="user/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+        <link href="user/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
 
         <!-- Customized Bootstrap Stylesheet -->
-        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="user/css/bootstrap.min.css" rel="stylesheet">
 
         <!-- Template Stylesheet -->
-        <link href="css/style.css" rel="stylesheet">
+        <link href="user/css/style.css" rel="stylesheet">
     </head>
 
     <body>
@@ -75,7 +75,7 @@
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <a href="" class="navbar-brand p-0">
                     <h1 class="text-primary"><i class="fas fa-search-dollar me-3"></i>Stocker</h1>
-                    <!-- <img src="img/logo.png" alt="Logo"> -->
+                    <!-- <img src="user/img/logo.png" alt="Logo"> -->
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
@@ -167,16 +167,16 @@
                     </div>
                     <div class="col-xl-5 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="bg-primary rounded position-relative overflow-hidden">
-                            <img src="img/about-2.png" class="img-fluid rounded w-100" alt="">
+                            <img src="user/img/about-2.png" class="img-fluid rounded w-100" alt="">
                             
                             <div class="" style="position: absolute; top: -15px; right: -15px;">
-                                <img src="img/about-3.png" class="img-fluid" style="width: 150px; height: 150px; opacity: 0.7;" alt="">
+                                <img src="user/img/about-3.png" class="img-fluid" style="width: 150px; height: 150px; opacity: 0.7;" alt="">
                             </div>
                             <div class="" style="position: absolute; top: -20px; left: 10px; transform: rotate(90deg);">
-                                <img src="img/about-4.png" class="img-fluid" style="width: 100px; height: 150px; opacity: 0.9;" alt="">
+                                <img src="user/img/about-4.png" class="img-fluid" style="width: 100px; height: 150px; opacity: 0.9;" alt="">
                             </div>
                             <div class="rounded-bottom">
-                                <img src="img/about-5.jpg" class="img-fluid rounded-bottom w-100" alt="">
+                                <img src="user/img/about-5.jpg" class="img-fluid rounded-bottom w-100" alt="">
                             </div>
                         </div>
                     </div>
@@ -257,7 +257,7 @@
                     <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="team-item">
                             <div class="team-img">
-                                <img src="img/team-1.jpg" class="img-fluid" alt="">
+                                <img src="user/img/team-1.jpg" class="img-fluid" alt="">
                             </div>
                             <div class="team-title">
                                 <h4 class="mb-0">David James</h4>
@@ -274,7 +274,7 @@
                     <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="team-item">
                             <div class="team-img">
-                                <img src="img/team-2.jpg" class="img-fluid" alt="">
+                                <img src="user/img/team-2.jpg" class="img-fluid" alt="">
                             </div>
                             <div class="team-title">
                                 <h4 class="mb-0">David James</h4>
@@ -291,7 +291,7 @@
                     <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item">
                             <div class="team-img">
-                                <img src="img/team-3.jpg" class="img-fluid" alt="">
+                                <img src="user/img/team-3.jpg" class="img-fluid" alt="">
                             </div>
                             <div class="team-title">
                                 <h4 class="mb-0">David James</h4>
@@ -308,7 +308,7 @@
                     <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
                         <div class="team-item">
                             <div class="team-img">
-                                <img src="img/team-4.jpg" class="img-fluid" alt="">
+                                <img src="user/img/team-4.jpg" class="img-fluid" alt="">
                             </div>
                             <div class="team-title">
                                 <h4 class="mb-0">David James</h4>
@@ -335,7 +335,7 @@
                         <div class="footer-item">
                             <a href="index.html" class="p-0">
                                 <h4 class="text-white"><i class="fas fa-search-dollar me-3"></i>Stocker</h4>
-                                <!-- <img src="img/logo.png" alt="Logo"> -->
+                                <!-- <img src="user/img/logo.png" alt="Logo"> -->
                             </a>
                             <p class="mb-4">Dolor amet sit justo amet elitr clita ipsum elitr est.Lorem ipsum dolor sit amet, consectetur adipiscing...</p>
                             <div class="d-flex">
@@ -436,16 +436,16 @@
         <!-- JavaScript Libraries -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-        <script src="lib/wow/wow.min.js"></script>
-        <script src="lib/easing/easing.min.js"></script>
-        <script src="lib/waypoints/waypoints.min.js"></script>
-        <script src="lib/counterup/counterup.min.js"></script>
-        <script src="lib/lightbox/js/lightbox.min.js"></script>
-        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="user/lib/wow/wow.min.js"></script>
+        <script src="user/lib/easing/easing.min.js"></script>
+        <script src="user/lib/waypoints/waypoints.min.js"></script>
+        <script src="user/lib/counterup/counterup.min.js"></script>
+        <script src="user/lib/lightbox/js/lightbox.min.js"></script>
+        <script src="user/lib/owlcarousel/owl.carousel.min.js"></script>
         
 
         <!-- Template Javascript -->
-        <script src="js/main.js"></script>
+        <script src="user/js/main.js"></script>
     </body>
 
 </html>
