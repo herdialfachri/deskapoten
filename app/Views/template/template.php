@@ -68,7 +68,7 @@
     <!-- Navbar & Hero Start -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-            <a href="" class="navbar-brand p-0">
+            <a href="/" class="navbar-brand p-0">
                 <h1 class="text-primary"><i class="fas fa-globe me-3"></i>Simpakal</h1>
                 <!-- <img src="user/img//logo.png" alt="Logo"> -->
             </a>
@@ -97,7 +97,7 @@
                             <h4 class="text-white"><i class="fas fa-globe me-3"></i>Simpakal</h4>
                             <!-- <img src="user/img//logo.png" alt="Logo"> -->
                         </a>
-                        <p class="mb-4">Dolor amet sit justo amet elitr clita ipsum elitr est.Lorem ipsum dolor sit amet, consectetur adipiscing...</p>
+                        <p class="mb-4">Sebuah platform berbasis web yang dirancang untuk mengelola dan menampilkan potensi sumber daya yang ada di kecamatan Kalapanunggal.</p>
                         <div class="d-flex">
                             <a href="#" class="bg-primary d-flex rounded align-items-center py-2 px-3 me-2">
                                 <i class="fas fa-apple-alt text-white"></i>
@@ -118,18 +118,16 @@
                 </div>
                 <div class="col-md-6 col-lg-6 col-xl-2">
                     <div class="footer-item">
-                        <h4 class="text-white mb-4">Quick Links</h4>
-                        <a href="#"><i class="fas fa-angle-right me-2"></i> About Us</a>
-                        <a href="#"><i class="fas fa-angle-right me-2"></i> Feature</a>
-                        <a href="#"><i class="fas fa-angle-right me-2"></i> Attractions</a>
-                        <a href="#"><i class="fas fa-angle-right me-2"></i> Tickets</a>
-                        <a href="#"><i class="fas fa-angle-right me-2"></i> Blog</a>
-                        <a href="#"><i class="fas fa-angle-right me-2"></i> Contact us</a>
+                        <h4 class="text-white mb-4">Navigasi Kilat</h4>
+                        <a href="/about"><i class="fas fa-angle-right me-2"></i> Tentang</a>
+                        <a href="/potensi"><i class="fas fa-angle-right me-2"></i> Potensi</a>
+                        <a href="/umkm"><i class="fas fa-angle-right me-2"></i> Berita</a>
+                        <a href="/kontak"><i class="fas fa-angle-right me-2"></i> Kontak</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 col-xl-3">
                     <div class="footer-item">
-                        <h4 class="text-white mb-4">Support</h4>
+                        <h4 class="text-white mb-4">Bantuan</h4>
                         <a href="#"><i class="fas fa-angle-right me-2"></i> Privacy Policy</a>
                         <a href="#"><i class="fas fa-angle-right me-2"></i> Terms & Conditions</a>
                         <a href="#"><i class="fas fa-angle-right me-2"></i> Disclaimer</a>
@@ -140,14 +138,14 @@
                 </div>
                 <div class="col-md-6 col-lg-6 col-xl-3">
                     <div class="footer-item">
-                        <h4 class="text-white mb-4">Contact Info</h4>
+                        <h4 class="text-white mb-4">Informasi</h4>
                         <div class="d-flex align-items-center">
                             <i class="fas fa-map-marker-alt text-primary me-3"></i>
-                            <p class="text-white mb-0">123 Street New York.USA</p>
+                            <p class="text-white mb-0">Kelurahan Kalapanunggal</p>
                         </div>
                         <div class="d-flex align-items-center">
                             <i class="fas fa-envelope text-primary me-3"></i>
-                            <p class="text-white mb-0">info@example.com</p>
+                            <p class="text-white mb-0">kecklp@gmail.com</p>
                         </div>
                         <div class="d-flex align-items-center">
                             <i class="fa fa-phone-alt text-primary me-3"></i>
@@ -155,7 +153,7 @@
                         </div>
                         <div class="d-flex align-items-center mb-4">
                             <i class="fab fa-firefox-browser text-primary me-3"></i>
-                            <p class="text-white mb-0">Yoursite@ex.com</p>
+                            <p class="text-white mb-0">www.simpakal.com</p>
                         </div>
                         <div class="d-flex">
                             <a class="btn btn-primary btn-sm-square rounded-circle me-3" href="#"><i class="fab fa-facebook-f text-white"></i></a>
