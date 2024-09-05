@@ -18,4 +18,19 @@ class Home extends BaseController
     {
         return view('landingpage/potensi');
     }
+
+    public function umkm(): string
+    {
+        return view('landingpage/umkm');
+    }
+
+    public function pertambangan(): string
+    {
+        return view('landingpage/pertambangan');
+    }
+
+    public function kontak(): string
+    {
+        return view('landingpage/kontak');
+    }
 }

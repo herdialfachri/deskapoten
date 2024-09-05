@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title><?= $this->renderSection('title') ?> - Deskapoten</title>
+    <title><?= $this->renderSection('title') ?> Simpakal</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -53,7 +53,7 @@
                     <a href="https://www.google.co.id/maps/place/Kalapanunggal,+Sukabumi+Regency,+West+Java/@-6.8101822,106.6248764,13z/data=!3m1!4b1!4m6!3m5!1s0x2e682cdae7a05063:0xb4faade38b49fea5!8m2!3d-6.8071649!4d106.6547348!16s%2Fg%2F1q54w14bq?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D" class="text-muted small me-4" target="_blank">
                         <i class="fas fa-map-marker-alt text-primary me-2"></i>Temukan Lokasi</a>
                     <a href="https://wa.me/6282122506110" class="text-muted small me-4" target="_blank"><i class="fas fa-phone-alt text-primary me-2"></i>Hubungi Kami</a>
-                    <a href="mailto:deskapoten@gmail.com" class="text-muted small me-0"><i class="fas fa-envelope text-primary me-2"></i>Kirim Email</a>
+                    <a href="mailto:Simpakal@gmail.com" class="text-muted small me-0"><i class="fas fa-envelope text-primary me-2"></i>Kirim Email</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center text-lg-end">
@@ -69,7 +69,7 @@
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
             <a href="" class="navbar-brand p-0">
-                <h1 class="text-primary"><i class="fas fa-globe me-3"></i>Deskapoten</h1>
+                <h1 class="text-primary"><i class="fas fa-globe me-3"></i>Simpakal</h1>
                 <!-- <img src="user/img//logo.png" alt="Logo"> -->
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -94,7 +94,7 @@
                 <div class="col-md-6 col-lg-6 col-xl-4">
                     <div class="footer-item">
                         <a href="index.html" class="p-0">
-                            <h4 class="text-white"><i class="fas fa-globe me-3"></i>Deskapoten</h4>
+                            <h4 class="text-white"><i class="fas fa-globe me-3"></i>Simpakal</h4>
                             <!-- <img src="user/img//logo.png" alt="Logo"> -->
                         </a>
                         <p class="mb-4">Dolor amet sit justo amet elitr clita ipsum elitr est.Lorem ipsum dolor sit amet, consectetur adipiscing...</p>
@@ -175,7 +175,7 @@
         <div class="container">
             <div class="row g-4 align-items-center">
                 <div class="col-md-6 text-center text-md-start mb-md-0">
-                    <span class="text-body"><a href="#" class="border-bottom text-white"><i class="fas fa-copyright text-light me-2"></i>Deskapoten 2024</a> All right reserved</span>
+                    <span class="text-body"><a href="#" class="border-bottom text-white"><i class="fas fa-copyright text-light me-2"></i>Simpakal 2024</a> Sistem Manajemen Potensi Kalapanunggal All right reserved.</span>
                 </div>
             </div>
         </div>

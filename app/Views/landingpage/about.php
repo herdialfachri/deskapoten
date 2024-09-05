@@ -14,11 +14,11 @@
                 <span class="dropdown-toggle">Berita Terbaru</span>
             </a>
             <div class="dropdown-menu m-0">
-                <a href="feature.html" class="dropdown-item">Our Features</a>
-                <a href="team.html" class="dropdown-item">Our team</a>
+                <a href="/umkm" class="dropdown-item">UMKM</a>
+                <a href="/pertambangan" class="dropdown-item">Pertambangan</a>
             </div>
         </div>
-        <a href="contact.html" class="nav-item nav-link">Kontak</a>
+        <a href="/kontak" class="nav-item nav-link">Kontak</a>
     </div>
     <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4 my-3 my-lg-0 flex-shrink-0">Get Started</a> -->
 </div>
